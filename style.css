@@ -1,0 +1,53 @@
+.copy_right_footer{
+    float: bottom;
+    background-color: grey;
+    box-shadow: 5px 5px gray;
+    bottom: 0px;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    color: white;
+}
+
+.he1{
+    text-align: left;
+}
+#sm1{
+    font-family: 'Fascinate', cursive;
+    color: chocolate;
+}
+#three{
+    background-color:aquamarine;
+}
+.he2 {
+    text-align: center;
+    width: 200;
+}
+
+.he2 img {
+    display: block;
+    margin: 0 auto;
+}
+nav ul{
+    list-style-type: none;
+}
+.bg1{
+    background: url(bg1.jpg);
+    background-size: cover;
+    color: aliceblue;
+}
+.bg2{
+    background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+}
+body{
+    background: url(bg3.jpeg);
+    background-size: cover;
+}
+h1, h2, p{
+    color: white;
+}
+.c{
+    color: firebrick;
+}
